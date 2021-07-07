@@ -1,4 +1,5 @@
 "use strict";
+document.write('<p>Estadisticas centro médico ñuñoa</p>');
 const radiologiaPacientes = [
   {
     hora: "11:00",
