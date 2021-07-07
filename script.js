@@ -28,6 +28,13 @@ const radiologiaPacientes = [
     rut: "17666419-0",
     prevision: "FONASA",
   },
+  {
+    hora: "16:00",
+    especialista: "PATRICIA SUAZO",
+    paciente: "RAMON ULLOA",
+    rut: "14989389-K",
+    prevision: "FONASA",
+  }
 ];
 
 const traumatologiaPacientes = [
